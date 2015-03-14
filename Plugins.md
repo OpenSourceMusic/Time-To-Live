@@ -1,0 +1,10 @@
+# Plugins
+* DSK Drums AkoustiK (Free)
+* Synth1 Virtual Analog (Free)
+* NES Pulse (Free)
+* Magical 8bit Plug (Free)
+* Chip32 (free)
+* TB Padawan (Free)
+* TB Toad (Free)
+* TB Triforce (Free)
+* TB Ritual (Free)
